@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta name="robots" content="noindex, nofollow"/>
+    <link rel="stylesheet" href="/css/admin-1.1.css" type="text/css"/>
+    <title>404 - Page introuvable</title>
+</head>
+<body class="login" onLoad="if (history.length > 1) { document.getElementById('backLink').style.display=''; }">
+    <div id="adminLogin">
+    <h2 class="loginlogo"></h2>
+            <br class="clearFloat" />
+            <h3 class="loginIcon">404 - Page introuvable</h3>
+        <p>Le fichier que vous avez demandé est introuvable sur ce serveur.</p>
+        <p id="backLink" style="display:none">Cliquez&nbsp;<a href="javascript:history.back()">ici</a>&nbsp;pour revenir en arrière.</p>
+        <p>Cliquez ici pour revenir à la page d'accueil:&nbsp;<a href="/">Page d'accueil</a></p>
+            <br class="clearFloat" />
+    </div>
+</body>
+</html>

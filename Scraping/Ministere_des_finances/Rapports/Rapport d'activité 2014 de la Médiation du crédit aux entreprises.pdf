@@ -1,0 +1,947 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# " xmlns="http://www.w3.org/1999/xhtml">
+  <head>
+    <meta charset="utf-8" />
+<meta property="og:site_name" content="economie.gouv.fr" />
+<meta name="twitter:card" content="summary" />
+<link rel="shortlink" href="https://www.economie.gouv.fr/" />
+<link rel="canonical" href="https://www.economie.gouv.fr/" />
+<meta property="og:type" content="Article" />
+<meta name="twitter:title" content="economie.gouv.fr" />
+<meta property="og:url" content="https://www.economie.gouv.fr/files/files/directions_services/mediateurducredit/pdf/CP_MdC_170315.pdf" />
+<meta property="og:title" content="Page non trouvée" />
+<meta name="twitter:url" content="https://www.economie.gouv.fr/" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="shortcut icon" href="/themes/custom/economie/favicon.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Page non trouvée | economie.gouv.fr</title>
+    <link rel="stylesheet" media="all" href="/core/assets/vendor/normalize-css/normalize.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/misc/normalize-fixes.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/ajax-progress.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/align.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/autocomplete-loading.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/fieldgroup.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/container-inline.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/clearfix.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/details.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/hidden.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/item-list.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/js.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/nowrap.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/position-container.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/progress.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/reset-appearance.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/resize.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/sticky-header.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-counter.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-counters.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/system-status-report-general-info.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tabledrag.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tablesort.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/system/components/tree-child.module.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/libraries/shariff//shariff.complete.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/core.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/menu.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/autocomplete.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/stable/css/core/dropbutton/dropbutton.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/modules/contrib/extlink/extlink.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/modules/contrib/paragraphs/css/paragraphs.unpublished.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/modules/contrib/better_exposed_filters/css/better_exposed_filters.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/assets/vendor/jquery.ui/themes/base/theme.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/modules/contrib/search_api_autocomplete/css/search_api_autocomplete.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/themes/custom/economie/css/knacss.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/themes/custom/economie/css/bootstrap-glyphicons.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/themes/custom/economie/css/fontawesome.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/themes/custom/economie/css/solid.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/themes/custom/economie/css/base.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/themes/custom/economie/css/layout.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/action-links.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/breadcrumb.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/button.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/collapse-processed.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/container-inline.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/details.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/exposed-filters.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/field.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/form.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/icons.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/inline-form.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/item-list.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/link.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/links.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/menu.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/more-link.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/pager.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tabledrag.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tableselect.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tablesort.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/tabs.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/textarea.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/ui-dialog.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/messages.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/progress.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/core/themes/classy/css/components/dropbutton.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/themes/custom/economie/css/components.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/themes/custom/economie/js/lightbox2/dist/css/lightbox.css?qcqxyv" />
+<link rel="stylesheet" media="all" href="/themes/custom/economie/css/theme.css?qcqxyv" />
+
+    
+<!--[if lte IE 8]>
+<script src="/core/assets/vendor/html5shiv/html5shiv.min.js?v=3.7.3"></script>
+<![endif]-->
+
+        <script type="text/javascript" src="/libraries/tarteaucitron/tarteaucitron.js"></script>
+
+        <script type="text/javascript"> var QWA={}; QWA.startTime=new Date().getTime();</script>
+      </head>
+  <body class="page-files-files-directions_services-mediateurducredit-pdf-CP_MdC_170315.pdf section-files path-files groupe-">
+        <div id="skip-links" class="visually-hidden focusable">
+      <ul>
+        <li><a href="#block-economie-main-menu">Aller au menu principal</a></li>
+        <li><a href="#main-content">Aller au contenu principal</a></li>
+        <li><a href="#block-search-block-form">Aller à la recherche</a></li>
+      </ul>
+    </div>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+    <div class="page" id="HautDePage">
+  <header role="banner">
+            <div class="region region-header clear">
+    <div class="layout-content center">
+            <button aria-label="open/close navigation" class="nav-button nav-button--portail fr" role="button" type="button">
+        <span class="button-text">Menu</span>
+        <i></i>
+      </button>
+      <div class="contenu-region-header">
+      <div id="block-economie-branding" class="block block-system block-system-branding-block">
+  
+    
+        <a href="/" title="Accueil" rel="home" class="site-logo">
+      <img src="/files/ministere-economie-2020_0.png" alt="Accueil" />
+    </a>
+        <div class="site-name">
+      <a href="/" title="Accueil" rel="home" role="heading" aria-level="1">economie.gouv.fr</a>
+    </div>
+        <div class="site-slogan">
+      <a href="/" title="Accueil" rel="home">Le portail de l'Économie, des Finances, de l'Action et des Comptes publics</a>
+    </div>
+  </div>
+<div id="block-headerreseauxsociaux-2" class="block--block-content--nous-suivre block block-block-content block-block-content43e441c9-a169-4369-a827-8609050ec6a1">
+  
+    
+      
+      <div class="field field--name-field-nous-suivre field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default"  style="color: #BE3D4D" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.economie.gouv.fr/lettres-information" title="Voir Lettres d&amp;#039;information" class="icone-img"><img src="/files/2019-01/enveloppe_1.png" width="25" height="17" alt="Lettres d'information" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="/lettres-information">Lettres d&#039;information</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://twitter.com/Economie_Gouv" title="Voir Twitter" class="icone-img"><img src="/files/2019-01/twt%20%281%29_0.png" width="25" height="20" alt="Twitter" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://twitter.com/Economie_Gouv" class="icone-lien">Twitter</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.facebook.com/Economie.Gouv/" title="Voir Facebook" class="icone-img"><img src="/files/2019-01/fb%20%281%29_0.png" width="10" height="20" alt="Facebook" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.facebook.com/Economie.Gouv/" class="icone-lien">Facebook</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.dailymotion.com/economie-et-finances" title="Voir Dailymotion" class="icone-img"><img src="/files/2019-01/d%20%281%29_0.png" width="15" height="20" alt="Dailymotion" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.dailymotion.com/economie-et-finances" class="icone-lien">Dailymotion</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.linkedin.com/company/minist%C3%A8re-de-l&#039;%C3%A9conomie-et-des-finances" title="Voir LinkedIn" class="icone-img"><img src="/files/2019-01/in%20%281%29_0.png" width="20" height="20" alt="Linkedin" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.linkedin.com/company/minist%C3%A8re-de-l&#039;%C3%A9conomie-et-des-finances" class="icone-lien">LinkedIn</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.economie.gouv.fr/rss" title="Voir Flux RSS" class="icone-img"><img src="/files/2019-01/rss%20%281%29_0.png" width="20" height="20" alt="Flux RSS" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="/rss" class="icone-lien">Flux RSS</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.economie.gouv.fr/reseaux-sociaux-ministere-et-directions" title="Voir Autres réseaux" class="icone-img"><img src="/files/2019-01/plus%20%281%29_0.png" width="24" height="6" alt="Autres réseaux" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="/reseaux-sociaux-ministere-et-directions" class="icone-lien">Autres réseaux</a></div>
+      
+  </div>
+</div>
+          </div>
+  
+  </div>
+<div id="block-dropdownlanguage-2" class="block block-dropdown-language block-dropdown-languagelanguage-interface">
+  
+    
+        <div class="dropbutton-wrapper"><div class="dropbutton-widget"><ul class="dropdown-language-item dropbutton"><li class="fr"><span class="language-link active-language" hreflang="fr">FR</span></li><li class="en"><a href="/en/system/404" class="language-link" hreflang="en">EN</a></li><li class="de"><a href="/de/system/404" class="language-link" hreflang="de">DE</a></li></ul></div></div>
+  </div>
+
+      <button aria-label="open/close search" class="search-button" role="button" type="button">
+        <img src="/themes/custom/economie/images/recherche.png" alt="Rechercher">
+      </button>
+      </div>
+    </div>
+  </div>
+
+
+                      <div class="region region-mainmenu clear">
+    <div class="layout-content center">
+    <div class="txtright">
+        <button arial-label="Fermer le menu" class="nav-close close--menu" title="Fermer le menu" type="button">
+          Fermer
+        </button>
+      </div>
+      <div class="views-exposed-form bef-exposed-form block block-views block-views-exposed-filter-blockrecherche-elasticsearch-recherche-elasticsearch" data-drupal-selector="views-exposed-form-recherche-elasticsearch-recherche-elasticsearch" id="block-formulaireexposerecherche-elasticsearchrecherche-elasticsearch-2">
+  
+    
+      <form action="/recherche-resultat" method="get" id="views-exposed-form-recherche-elasticsearch-recherche-elasticsearch" accept-charset="UTF-8">
+  <div class="search-form-content">
+  <div class="js-form-item form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-search-api-views-fulltext form-item-search-api-views-fulltext form-no-label">
+        <input placeholder="Rechercher" data-drupal-selector="edit-search-api-views-fulltext" data-search-api-autocomplete-search="recherche_elasticsearch" class="form-autocomplete form-text" data-autocomplete-path="/search_api_autocomplete/recherche_elasticsearch?display=recherche_elasticsearch&amp;&amp;filter=search_api_views_fulltext" type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="30" maxlength="128" />
+
+        </div>
+<fieldset data-drupal-selector="edit-sort-by" id="edit-sort-by--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Trier les résultats par</span>
+  </legend>
+  <div class="fieldset-wrapper">
+            <div id="edit-sort-by" class="form-radios"><div data-drupal-selector="edit-sort-by" id="edit-sort-by--wrapper" class="fieldgroup form-composite form-radios">
+                  <div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-sort-by form-item-sort-by">
+        <input data-drupal-selector="edit-sort-by-search-api-relevance" type="radio" id="edit-sort-by-search-api-relevance" name="sort_by" value="search_api_relevance" checked="checked" class="form-radio" />
+
+        <label for="edit-sort-by-search-api-relevance" class="option">Pertinence</label>
+      </div>
+
+                    <div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-sort-by form-item-sort-by">
+        <input data-drupal-selector="edit-sort-by-content-created-date" type="radio" id="edit-sort-by-content-created-date" name="sort_by" value="content_created_date" class="form-radio" />
+
+        <label for="edit-sort-by-content-created-date" class="option">Date de Création</label>
+      </div>
+
+      </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-expression-exacte form-item-expression-exacte">
+        <input data-drupal-selector="edit-expression-exacte" type="checkbox" id="edit-expression-exacte" name="expression_exacte" value="1" class="form-checkbox" />
+
+        <label for="edit-expression-exacte" class="option">Expression exacte</label>
+      </div>
+<fieldset data-drupal-selector="edit-afficher-extraits" id="edit-afficher-extraits--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Afficher les extraits</span>
+  </legend>
+  <div class="fieldset-wrapper">
+            <div id="edit-afficher-extraits" class="form-radios"><div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-afficher-extraits form-item-afficher-extraits">
+        <input data-drupal-selector="edit-afficher-extraits-oui" type="radio" id="edit-afficher-extraits-oui" name="afficher_extraits" value="oui" checked="checked" class="form-radio" />
+
+        <label for="edit-afficher-extraits-oui" class="option">Oui</label>
+      </div>
+<div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-afficher-extraits form-item-afficher-extraits">
+        <input data-drupal-selector="edit-afficher-extraits-non" type="radio" id="edit-afficher-extraits-non" name="afficher_extraits" value="non" class="form-radio" />
+
+        <label for="edit-afficher-extraits-non" class="option">Non</label>
+      </div>
+</div>
+
+          </div>
+</fieldset>
+<input data-drupal-selector="edit-gid" type="hidden" name="gid" value="" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-recherche-elasticsearch" type="submit" id="edit-submit-recherche-elasticsearch" value="Rechercher" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+  </div>
+<nav role="navigation" aria-labelledby="block-economie-main-menu-menu" id="block-economie-main-menu" class="block block-menu navigation menu--main">
+            
+  <h2 class="visually-hidden" id="block-economie-main-menu-menu">Navigation principale</h2>
+  
+
+        
+              <ul class="menu">
+                    <li class="menu-item">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Accueil</a>
+              </li>
+                <li class="menu-item">
+        <a href="/particuliers" class="particuliers" data-drupal-link-system-path="node/48069">Particuliers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/entreprises" class="entreprises" data-drupal-link-system-path="node/57063">Entreprises</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/les-ministres" data-drupal-link-system-path="les-ministres">Les ministres</a>
+              </li>
+                <li class="menu-item">
+        <a href="/ministeres" data-drupal-link-system-path="node/38861">Les ministères</a>
+              </li>
+                <li class="menu-item menu-item--collapsed">
+        <a href="/presse" data-drupal-link-system-path="presse">Presse</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-blocsheader" class="block block-blockgroup block-block-group08f3d616-28d1-4e96-ac08-388a599bc3d7">
+  
+    
+      <div id="block-headerreseauxsociaux" class="block--block-content--nous-suivre block block-block-content block-block-content43e441c9-a169-4369-a827-8609050ec6a1">
+  
+    
+      
+      <div class="field field--name-field-nous-suivre field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default"  style="color: #BE3D4D" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.economie.gouv.fr/lettres-information" title="Voir Lettres d&amp;#039;information" class="icone-img"><img src="/files/2019-01/enveloppe_1.png" width="25" height="17" alt="Lettres d'information" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="/lettres-information">Lettres d&#039;information</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://twitter.com/Economie_Gouv" title="Voir Twitter" class="icone-img"><img src="/files/2019-01/twt%20%281%29_0.png" width="25" height="20" alt="Twitter" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://twitter.com/Economie_Gouv" class="icone-lien">Twitter</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.facebook.com/Economie.Gouv/" title="Voir Facebook" class="icone-img"><img src="/files/2019-01/fb%20%281%29_0.png" width="10" height="20" alt="Facebook" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.facebook.com/Economie.Gouv/" class="icone-lien">Facebook</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.dailymotion.com/economie-et-finances" title="Voir Dailymotion" class="icone-img"><img src="/files/2019-01/d%20%281%29_0.png" width="15" height="20" alt="Dailymotion" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.dailymotion.com/economie-et-finances" class="icone-lien">Dailymotion</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.linkedin.com/company/minist%C3%A8re-de-l&#039;%C3%A9conomie-et-des-finances" title="Voir LinkedIn" class="icone-img"><img src="/files/2019-01/in%20%281%29_0.png" width="20" height="20" alt="Linkedin" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.linkedin.com/company/minist%C3%A8re-de-l&#039;%C3%A9conomie-et-des-finances" class="icone-lien">LinkedIn</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.economie.gouv.fr/rss" title="Voir Flux RSS" class="icone-img"><img src="/files/2019-01/rss%20%281%29_0.png" width="20" height="20" alt="Flux RSS" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="/rss" class="icone-lien">Flux RSS</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.economie.gouv.fr/reseaux-sociaux-ministere-et-directions" title="Voir Autres réseaux" class="icone-img"><img src="/files/2019-01/plus%20%281%29_0.png" width="24" height="6" alt="Autres réseaux" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="/reseaux-sociaux-ministere-et-directions" class="icone-lien">Autres réseaux</a></div>
+      
+  </div>
+</div>
+          </div>
+  
+  </div>
+<div id="block-dropdownlanguage" class="block block-dropdown-language block-dropdown-languagelanguage-interface">
+  
+    
+        <div class="dropbutton-wrapper"><div class="dropbutton-widget"><ul class="dropdown-language-item dropbutton"><li class="fr"><span class="language-link active-language" hreflang="fr">FR</span></li><li class="en"><a href="/en/system/404" class="language-link" hreflang="en">EN</a></li><li class="de"><a href="/de/system/404" class="language-link" hreflang="de">DE</a></li></ul></div></div>
+  </div>
+
+  </div>
+
+    </div>
+  </div>
+
+      </header>
+  <main role="main" class="main ">
+    <a id="main-content" tabindex="-1"></a>            <div class="region region-pre-content clear">
+    <div class="layout-content center">
+      <div class="views-exposed-form bef-exposed-form block block-views block-views-exposed-filter-blockrecherche-elasticsearch-recherche-elasticsearch" data-drupal-selector="views-exposed-form-recherche-elasticsearch-recherche-elasticsearch" id="block-search-block-form">
+  
+    
+      <form action="/recherche-resultat" method="get" id="views-exposed-form-recherche-elasticsearch-recherche-elasticsearch" accept-charset="UTF-8">
+  <div class="search-form-content">
+  <div class="js-form-item form-item js-form-type-search-api-autocomplete form-type-search-api-autocomplete js-form-item-search-api-views-fulltext form-item-search-api-views-fulltext form-no-label">
+        <input placeholder="Rechercher" data-drupal-selector="edit-search-api-views-fulltext" data-search-api-autocomplete-search="recherche_elasticsearch" class="form-autocomplete form-text" data-autocomplete-path="/search_api_autocomplete/recherche_elasticsearch?display=recherche_elasticsearch&amp;&amp;filter=search_api_views_fulltext" type="text" id="edit-search-api-views-fulltext" name="search_api_views_fulltext" value="" size="30" maxlength="128" />
+
+        </div>
+<fieldset data-drupal-selector="edit-sort-by" id="edit-sort-by--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Trier les résultats par</span>
+  </legend>
+  <div class="fieldset-wrapper">
+            <div id="edit-sort-by" class="form-radios"><div data-drupal-selector="edit-sort-by" id="edit-sort-by--wrapper" class="fieldgroup form-composite form-radios">
+                  <div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-sort-by form-item-sort-by">
+        <input data-drupal-selector="edit-sort-by-search-api-relevance" type="radio" id="edit-sort-by-search-api-relevance" name="sort_by" value="search_api_relevance" checked="checked" class="form-radio" />
+
+        <label for="edit-sort-by-search-api-relevance" class="option">Pertinence</label>
+      </div>
+
+                    <div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-sort-by form-item-sort-by">
+        <input data-drupal-selector="edit-sort-by-content-created-date" type="radio" id="edit-sort-by-content-created-date" name="sort_by" value="content_created_date" class="form-radio" />
+
+        <label for="edit-sort-by-content-created-date" class="option">Date de Création</label>
+      </div>
+
+      </div>
+</div>
+
+          </div>
+</fieldset>
+<div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-expression-exacte form-item-expression-exacte">
+        <input data-drupal-selector="edit-expression-exacte" type="checkbox" id="edit-expression-exacte" name="expression_exacte" value="1" class="form-checkbox" />
+
+        <label for="edit-expression-exacte" class="option">Expression exacte</label>
+      </div>
+<fieldset data-drupal-selector="edit-afficher-extraits" id="edit-afficher-extraits--wrapper" class="fieldgroup form-composite js-form-item form-item js-form-wrapper form-wrapper">
+      <legend>
+    <span class="fieldset-legend">Afficher les extraits</span>
+  </legend>
+  <div class="fieldset-wrapper">
+            <div id="edit-afficher-extraits" class="form-radios"><div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-afficher-extraits form-item-afficher-extraits">
+        <input data-drupal-selector="edit-afficher-extraits-oui" type="radio" id="edit-afficher-extraits-oui" name="afficher_extraits" value="oui" checked="checked" class="form-radio" />
+
+        <label for="edit-afficher-extraits-oui" class="option">Oui</label>
+      </div>
+<div class="js-form-item form-item js-form-type-radio form-type-radio js-form-item-afficher-extraits form-item-afficher-extraits">
+        <input data-drupal-selector="edit-afficher-extraits-non" type="radio" id="edit-afficher-extraits-non" name="afficher_extraits" value="non" class="form-radio" />
+
+        <label for="edit-afficher-extraits-non" class="option">Non</label>
+      </div>
+</div>
+
+          </div>
+</fieldset>
+<input data-drupal-selector="edit-gid" type="hidden" name="gid" value="" />
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit-recherche-elasticsearch" type="submit" id="edit-submit-recherche-elasticsearch" value="Rechercher" class="button js-form-submit form-submit" />
+</div>
+
+</div>
+
+</form>
+
+  </div>
+
+    </div>
+  </div>
+
+        <div id="toolBox" class="layout-content">
+  <div class="fr">
+    <button class="accessibility plustext" type="button" name="Agrandir la taille du texte">A+</button>
+    <button class="accessibility minustext" type="button" name="Réduire la taille du texte">A-</button>
+    <a href="javascript:self.print();" id="print" onclick="return xt_click(this,'C','1','imprimer','A')" title="Imprimer la page">
+      <img alt="Imprimer la page" src="/themes/custom/economie/images/print.png">
+    </a>
+  </div>
+</div>
+          
+                    <div class="region region-content">
+    <div class="layout-content center">
+      <div data-drupal-messages-fallback class="hidden"></div>
+<div id="block-economie-breadcrumbs" class="block block-system block-system-breadcrumb-block">
+  
+    
+        <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Fil d'Ariane</h2>
+    <ol>
+          <li>
+                  <a href="/">Accueil du portail</a>
+              </li>
+          <li>
+                  Page non trouvée
+              </li>
+        </ol>
+  </nav>
+
+  </div>
+<div id="block-economie-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+  <h1 class="page-title">Page non trouvée</h1>
+
+
+  </div>
+<div id="block-economie-content" class="block block-system block-system-main-block">
+  
+    
+      La page demandée n'a pas pu être trouvée.
+  </div>
+<div id="block-shariffsharebuttons" class="block block-shariff block-shariff-block txtright">
+  
+      <div>Partager la page</div>
+    
+      <div class="shariff"   data-services="[&quot;twitter&quot;,&quot;facebook&quot;,&quot;linkedin&quot;]" data-theme="colored" data-css="complete" data-orientation="horizontal" data-mail-url="mailto:" data-lang="en">
+    
+        
+</div>
+
+  </div>
+<div id="block-actipopinblock" class="block block-acti-popin block-acti-popin-block">
+  
+    
+      
+  </div>
+
+    </div>
+  </div>
+
+          </main>
+  <div class="top top-is-visible">
+    <p class="txtright layout-content">
+      <a href="#HautDePage">Haut de page</a>
+    </p>
+  </div>
+    <footer role="contentinfo" class="footer">
+    <button aria-expanded="false" class="footer-mobile-trigger" type="button">
+      Mentions légales &amp; infos pratiques
+    </button>
+            <div class="region region-footer-top clear">
+    <div class="layout-content center">
+      <nav role="navigation" aria-labelledby="block-menupieddepage-menu" id="block-menupieddepage" class="block block-menu navigation menu--menu-pied-de-page pts pbs">
+            
+  <h2 class="visually-hidden" id="block-menupieddepage-menu">Menu pied de page</h2>
+  
+
+        
+              <ul class="menu flex-container">
+                    <li class="menu-item menu-item--expanded">
+        <span class="section">Rubriques</span>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/" data-drupal-link-system-path="&lt;front&gt;">Accueil</a>
+              </li>
+                <li class="menu-item">
+        <a href="/particuliers" data-drupal-link-system-path="node/48069">Particuliers</a>
+              </li>
+                <li class="menu-item">
+        <a href="/entreprises" data-drupal-link-system-path="node/57063">Entreprises</a>
+              </li>
+                <li class="menu-item">
+        <a href="/les-ministres" data-drupal-link-system-path="les-ministres">Les ministres</a>
+              </li>
+                <li class="menu-item">
+        <a href="/ministeres" data-drupal-link-system-path="node/38861">Les ministères</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span class="section">Actualités</span>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/toutes-les-actualites-vous-orienter/thematique/particulier-1768" data-drupal-link-system-path="toutes-les-actualites-vous-orienter/thematique/particulier-1768">Vous êtes un particulier</a>
+              </li>
+                <li class="menu-item">
+        <a href="/toutes-les-actualites-vous-orienter/thematique/entreprise-1766" data-drupal-link-system-path="toutes-les-actualites-vous-orienter/thematique/entreprise-1766">Vous êtes une entreprise</a>
+              </li>
+                <li class="menu-item">
+        <a href="/toutes-les-actualites" data-drupal-link-system-path="toutes-les-actualites">L&#039;actualité des ministres</a>
+              </li>
+                <li class="menu-item">
+        <a href="/presse/communiques" data-drupal-link-system-path="presse/communiques">Communiqués de presse</a>
+              </li>
+                <li class="menu-item">
+        <a href="/evenements" data-drupal-link-system-path="node/32318">Événements</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span class="section infos">Information sur le portail</span>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/contact" data-drupal-link-system-path="node/1755">Contact</a>
+              </li>
+                <li class="menu-item">
+        <a href="/sitemap" data-drupal-link-system-path="sitemap">Plan du portail</a>
+              </li>
+                <li class="menu-item">
+        <a href="/mentions-legales" data-drupal-link-system-path="node/1745">Mentions légales</a>
+              </li>
+                <li class="menu-item">
+        <a href="/politique-confidentialite" data-drupal-link-system-path="node/1862">Politique de confidentialité</a>
+              </li>
+                <li class="menu-item">
+        <a href="/accessibilite" data-drupal-link-system-path="node/1744">Accessibilité</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://vip.sphinxonline.net/sircom/evaluation_portail_economie/evaluation_portail_economie.hyp">Évaluez le portail</a>
+              </li>
+                <li class="menu-item">
+        <a href="/cedef/repertoire-des-informations-publiques" data-drupal-link-system-path="node/44721">Répertoire des informations publiques</a>
+              </li>
+                <li class="menu-item">
+        <a href="/documents-opposables" data-drupal-link-system-path="node/52695">Documents opposables</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item menu-item--expanded">
+        <span class="derniere-categorie test">Navigation interne</span>
+                                <ul class="menu">
+                    <li class="menu-item">
+        <a href="/recrutement" data-drupal-link-system-path="node/39013">Recrutement</a>
+              </li>
+                <li class="menu-item">
+        <a href="/consultations-publiques" data-drupal-link-system-path="node/26749">Consultations publiques</a>
+              </li>
+                <li class="menu-item">
+        <a href="/cedef" data-drupal-link-system-path="node/38987">Documentation</a>
+              </li>
+                <li class="menu-item">
+        <a href="https://data.economie.gouv.fr/">data.economie.gouv.fr</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+
+
+  </nav>
+<div id="block-footernoussuivre" class="block--block-content--nous-suivre block block-block-content block-block-content2a8d87ce-80d6-4131-86b1-fd415b121d1c flex-container ptm pbm">
+  
+      <h2>Nous suivre</h2>
+    
+      
+      <div class="field field--name-field-nous-suivre field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext"  style="color: #BE3E4E" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://blogs.economie.gouv.fr/les-cafes-economiques-de-bercy/" title="Voir Blog des cafés économiques" class="icone-img"><img src="/files/2019-01/blog.png" width="29" height="28" alt="" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://blogs.economie.gouv.fr/les-cafes-economiques-de-bercy/">Blog des cafés économiques</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default"  style="color: #BE3E4E" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.economie.gouv.fr/lettres-information" title="Voir Lettres d&amp;#039;information" class="icone-img"><img src="/files/2019-01/enveloppe.png" width="25" height="17" alt="" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="/lettres-information">Lettres d&#039;information</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://twitter.com/Economie_Gouv" title="Voir Twitter" class="icone-img"><img src="/files/2019-01/twt%20%281%29.png" width="25" height="20" alt="Twitter" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://twitter.com/Economie_Gouv" class="icone-lien">Twitter</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.facebook.com/Economie.Gouv/" title="Voir Facebook" class="icone-img"><img src="/files/2019-01/fb%20%281%29.png" width="10" height="20" alt="Facebook" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.facebook.com/Economie.Gouv/" class="icone-lien">Facebook</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.dailymotion.com/economie-et-finances" title="Voir Dailymotion" class="icone-img"><img src="/files/2019-01/d%20%281%29.png" width="15" height="20" alt="Dailymotion" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.dailymotion.com/economie-et-finances" class="icone-lien">Dailymotion</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default ext" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.linkedin.com/company/minist%C3%A8re-de-l&#039;%C3%A9conomie-et-des-finances" title="Voir LinkedIn" class="icone-img"><img src="/files/2019-01/in%20%281%29.png" width="20" height="20" alt="Linkedin" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.linkedin.com/company/minist%C3%A8re-de-l&#039;%C3%A9conomie-et-des-finances" class="icone-lien">LinkedIn</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.economie.gouv.fr/rss" title="Voir Flux RSS" class="icone-img"><img src="/files/2019-01/rss%20%281%29.png" width="20" height="20" alt="Flux RSS" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="/rss" class="icone-lien">Flux RSS</a></div>
+      
+  </div>
+</div>
+              <div class="field__item">
+
+
+<div class="paragraph paragraph--type--nous-suivre paragraph--view-mode--default" >
+      
+            <div class="field field--name-field-icone field--type-image field--label-hidden field__item">  <a href="https://www.economie.gouv.fr/reseaux-sociaux-ministere-et-directions" title="Voir Autres réseaux" class="icone-img"><img src="/files/2019-01/plus%20%281%29.png" width="24" height="6" alt="Autres réseaux" typeof="Image" /></a>
+
+</div>
+      
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="/reseaux-sociaux-ministere-et-directions" class="icone-lien">Autres réseaux</a></div>
+      
+  </div>
+</div>
+          </div>
+  
+  </div>
+
+    </div>
+  </div>
+
+                <div class="region region-footer-bottom clear txtcenter">
+    <div class="layout-content center pam">
+      <div id="block-footersitesgouvernementaux" class="block--block-content--sites-gouvernementaux block block-block-content block-block-contentea09b97c-55cd-44df-91bc-5c4605f1f7c6">
+  
+    
+      
+      <div class="field field--name-field-lien field--type-entity-reference-revisions field--label-hidden field__items">
+              <div class="field__item inbl">  <div class="paragraph paragraph--type--liens-gouvernementaux paragraph--view-mode--default">
+          
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.data.gouv.fr/">data.gouv.fr</a></div>
+      
+      </div>
+</div>
+              <div class="field__item inbl">  <div class="paragraph paragraph--type--liens-gouvernementaux paragraph--view-mode--default">
+          
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.elysee.fr/">elysee.fr</a></div>
+      
+      </div>
+</div>
+              <div class="field__item inbl">  <div class="paragraph paragraph--type--liens-gouvernementaux paragraph--view-mode--default">
+          
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.france.fr/">france.fr</a></div>
+      
+      </div>
+</div>
+              <div class="field__item inbl">  <div class="paragraph paragraph--type--liens-gouvernementaux paragraph--view-mode--default">
+          
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.gouvernement.fr/">gouvernement.fr</a></div>
+      
+      </div>
+</div>
+              <div class="field__item inbl">  <div class="paragraph paragraph--type--liens-gouvernementaux paragraph--view-mode--default">
+          
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.legifrance.gouv.fr/">legifrance.gouv.fr</a></div>
+      
+      </div>
+</div>
+              <div class="field__item inbl">  <div class="paragraph paragraph--type--liens-gouvernementaux paragraph--view-mode--default">
+          
+            <div class="field field--name-field-lien field--type-link field--label-hidden field__item"><a href="https://www.service-public.fr/">service-public.fr</a></div>
+      
+      </div>
+</div>
+          </div>
+  
+  </div>
+
+    </div>
+  </div>
+
+      </footer>
+</div>
+  </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr","themeUrl":"themes\/custom\/economie"},"pluralDelimiter":"\u0003","ajaxPageState":{"libraries":"better_exposed_filters\/general,ckeditor_image_dge\/remove,classy\/base,classy\/messages,core\/drupal.dropbutton,core\/html5shiv,core\/normalize,dropdown_language\/dropdown-language-selector,economie\/bootstrap.glyphicons,economie\/font.awesome,economie\/lightbox.lightbox,economie\/style.principaux,extlink\/drupal.extlink,paragraphs\/drupal.paragraphs.unpublished,search_api_autocomplete\/search_api_autocomplete,shariff\/shariff,shariff\/shariff-complete,system\/base,xiti_config\/xiti_opt_out,xiti_config\/xtcore","theme":"economie","theme_token":null},"ajaxTrustedUrl":{"\/recherche-resultat":true},"data":{"extlink":{"extTarget":true,"extTargetNoOverride":false,"extNofollow":false,"extFollowNoOverride":false,"extClass":"ext","extLabel":"(le lien est externe)","extImgClass":true,"extSubdomains":false,"extExclude":"","extInclude":"","extCssExclude":"","extCssExplicit":"","extAlert":false,"extAlertText":"Ce lien vous dirige vers un site externe. Nous ne sommes pas responsables de son contenu.","mailtoClass":"0","mailtoLabel":"(link sends email)"}},"search_api_autocomplete":{"recherche_elasticsearch":{"delay":200,"auto_submit":true}},"xiti_config":{"xtsd":"https:\/\/logs4","xtsite":"483556","xtn2":11,"xtpage":"erreur_404"},"user":{"uid":0,"permissionsHash":"36d5666dd5bd950c52f72dc27f1f48f92a9a7bbf0859af7e61227b63f747ac95"}}</script>
+<script src="/core/assets/vendor/domready/ready.min.js?v=1.0.8"></script>
+<script src="/core/assets/vendor/jquery/jquery.min.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery/jquery-extend-3.4.0.js?v=3.2.1"></script>
+<script src="/core/assets/vendor/jquery-once/jquery.once.min.js?v=2.2.0"></script>
+<script src="/core/misc/drupalSettingsLoader.js?v=8.7.11"></script>
+<script src="/files/languages/fr_Dhrq7CQd0-LGQf31HdDNSHxo1IaGzMaWpBQO8i2i3fU.js?qcqxyv"></script>
+<script src="/core/misc/drupal.js?v=8.7.11"></script>
+<script src="/core/misc/drupal.init.js?v=8.7.11"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/data-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/disable-selection-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/form-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/labels-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/jquery-1-7-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/scroll-parent-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/tabbable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/unique-id-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/version-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/focusable-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/ie-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/keycode-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/plugin-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-active-element-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/safe-blur-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widget-min.js?v=1.12.1"></script>
+<script src="/modules/custom/xiti_config/js/xiti_actimage.js?qcqxyv"></script>
+<script src="/core/misc/autocomplete.js?v=8.7.11"></script>
+<script src="/themes/custom/economie/js/scripts.js?v=8.7.11"></script>
+<script src="/themes/custom/economie/js/lightbox2/dist/js/lightbox.js?qcqxyv"></script>
+<script src="/modules/custom/xiti_config/js/xtcore.js?qcqxyv"></script>
+<script src="/modules/contrib/extlink/extlink.js?v=8.7.11"></script>
+<script src="/libraries/shariff//shariff.min.js?v=8.7.11"></script>
+<script src="/modules/contrib/shariff/js/shariff.js?v=8.7.11"></script>
+<script src="/modules/contrib/better_exposed_filters/js/better_exposed_filters.js?v=3.x"></script>
+<script src="/modules/custom/ckeditor_image_dge/js/remove.js?v=8.7.11"></script>
+<script src="/core/misc/progress.js?v=8.7.11"></script>
+<script src="/core/misc/ajax.js?v=8.7.11"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/position-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/menu-min.js?v=1.12.1"></script>
+<script src="/core/assets/vendor/jquery.ui/ui/widgets/autocomplete-min.js?v=1.12.1"></script>
+<script src="/modules/contrib/search_api_autocomplete/js/search_api_autocomplete.js?qcqxyv"></script>
+<script src="/modules/contrib/dropdown_language/js/dropdown_language_selector.js?v=8.7.11"></script>
+<script src="/core/misc/dropbutton/dropbutton.js?v=8.7.11"></script>
+
+        <script type="text/javascript">
+                  tarteaucitron.user.abtastyId = 'a513b8f61404f9eb2dbf3bd8922842d2';
+      (tarteaucitron.job = tarteaucitron.job || []).push(
+        'abtasty',
+        'dailymotion',
+        'youtube',
+         /* 'twitterwidgetsapi',
+        'twitterembed',
+        'twittertimeline', */
+        'xiti'
+      );
+    </script>
+    <script type="text/javascript">
+      tarteaucitron.user.gtagUa = 'DC-2984122';
+      tarteaucitron.user.gtagMore = function () { /* add here your optionnal gtag() */ };
+      (tarteaucitron.job = tarteaucitron.job || []).push('gtag');
+    </script>
+     <script src="https://tracker.quadran.eu/qa-combined.js" type="text/javascript"></script>
+  <script type="text/javascript">QWATracker.activate("9ea10e2f87c7a0f246c4ec2e3f2e57ab");</script>
+  <noscript>
+    <img width="1" height="1" alt="" src="https://logs4.xiti.com/hit.xiti?s=483556&s2=11&p=erreur_404&di=x&an=&ac=" >
+  </noscript>
+
+  </body>
+</html>

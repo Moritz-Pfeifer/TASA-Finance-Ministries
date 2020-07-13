@@ -1,0 +1,1038 @@
+<!DOCTYPE html>
+<html lang="fr" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+<meta name="Generator" content="Drupal 8 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>function euCookieComplianceLoadScripts(category) {var scriptTag = document.createElement("script");scriptTag.src = "https:\/\/static.addtoany.com\/menu\/page.js";document.body.appendChild(scriptTag);var scriptTag = document.createElement("script");scriptTag.src = "\/themes\/custom\/portail_externe\/assets\/js\/tweeter.js";document.body.appendChild(scriptTag);var scriptTag = document.createElement("script");scriptTag.src = "\/themes\/custom\/portail_externe\/assets\/js\/flickr.js";document.body.appendChild(scriptTag);}</script>
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #BBBBBB} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #000000;} .eu-cookie-withdraw-tab { border-color: #000000;}</style>
+<link rel="shortcut icon" href="/sites/default/files/favicon.ico" type="image/vnd.microsoft.icon" />
+<script>window.a2a_config=window.a2a_config||{};a2a_config.callbacks=[];a2a_config.overlays=[];a2a_config.templates={};a2a_config.no_3p=1;</script>
+
+    <title>Erreur 404 | Portail de la Direction Générale des Douanes et Droits Indirects</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_lnGC3KqI2HRZxp79ANidy8YSkJ53Y7RXCfcduro2tvM.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_tGO_pZs3bn_KBlMc36LQ5xZG0n9s0IcoXDH0pB_ZXAk.css" />
+
+    
+<!--[if lte IE 8]>
+<script src="/sites/default/files/js/js_VtafjXmRvoUgAzqzYTA3Wrjkx9wcWhjP0G4ZnnqRamA.js"></script>
+<![endif]-->
+<script src="/libraries/fontawesome/js/all.js?v=5.10.0" defer></script>
+
+  </head>
+  <body>
+        <a href="#main-content" class="visually-hidden focusable">
+      Aller au contenu principal
+    </a>
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+                <header class="banner" role="banner">
+        <div class="container">
+    <div class="row justify-content-between">
+        <div class=" contLogoMarque col-md-8 col-lg-9 col-sm-4">
+            <div class="contLogo">
+                <ul class="list-inline">
+
+                    <li  class="list-inline-item "><a id="logo-main-left" href="https://www.economie.gouv.fr/" title="Le portail de l&#039;Économie, des Finances, de l&#039;Action et des Comptes publics"><img class="img-fluid" src="/themes/custom/portail_externe/assets/images/logo-ministere.svg" alt="https://www.economie.gouv.fr/"/></a></li>
+                    <li class="list-inline-item"><a href="/" title="Retour à la page d'accueil du portail de la direction générale des douanes et droits indirects"><img src="/themes/custom/portail_externe/assets/images/logo-douane.svg" alt="DGDDI"/></a></li>
+                </ul>
+            </div>
+                            <div class="marqueDouane col-sm-6">
+                  <div class="titleHeader">
+                    <a href="/">douane.gouv.fr
+                      <span>Le portail de la direction générale des douanes et droits indirects</span>
+                    </a>
+                  </div>
+                </div>
+                    </div>
+
+        <div class="col-sm-6 col-md-4 col-lg-3 text-right">
+                <div class="monCompte d-none d-sm-block">
+    <div id="blocLoginAnonyme">
+        <div class="media text-left">
+            <img class="mr-3" src="/themes/custom/portail_externe/assets/images/icon-avatar.svg" alt="">
+            <div class="media-body">
+                <span class="mt-0" >Mon Espace Personnel</span>
+                 <ul class="list-inline list-unstyled listLiensDisc">
+                    <li class="list-inline-item"><a href="/saml_login">Se connecter</a></li>
+                    <li class="list-inline-item"><a href="/mon-compte/creer">S&#039;inscrire</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+        </div>
+    </div>
+</div>
+    </header>
+<section class="contNav">
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="d-block d-lg-none align-middle contlisteMenuespacePriveMobile">
+                    <ul class="listeMenuespacePriveMobile  list-unstyled">
+                        <li>
+                            <a class="collapsed" id="btnServiceAide" data-toggle="collapse" href="#collapseAide" role="button" aria-expanded="false" aria-controls="collapseAide">
+                                <i class="icon-outline-help_outline-24px"></i>
+                            </a>
+                        </li>
+                        <li>
+                            <a class="collapsed" id="btnLoupeMobile" data-toggle="collapse" href="#collapseRecherche" role="button" aria-expanded="false" aria-controls="collapseRecherche"><i class="icon-baseline-search-24px"></i></a>
+                        </li>
+                        <li>
+                            <a class="collapsed" id="btnMonCompte" data-toggle="collapse" href="#collapseCompte" role="button" aria-expanded="false" aria-controls="collapseCompte" class="espaceperso"><i class="icon-espacePerso"></i></a>
+                        </li>
+                    </ul>
+                </div>
+
+                <nav id="nav-main" class="navbar navbar-expand-lg navigationDouane" aria-label="Main menu">
+                    <button id="boutonToggle" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                        <span class="navbar-toggler-icon"></span>
+                    </button>
+                    <div class="navbar-collapse collapse" id="navbarNavDropdown">
+                        <ul class="navbar-nav" id="menu-principal">
+                            <li class="nav-item ">
+                                <a class="nav-link dropdown-toggle" href="#collapseParticulier" id="dropdownMenuLinkParticuliers" role="button" aria-haspopup="true" aria-expanded="false" aria-controls="collapseParticulier">Particuliers</a>
+                            </li>
+                            <li class="nav-item ">
+                                <a class="nav-link dropdown-toggle" href="#collapsePro" id="dropdownMenuLinkProfessionnels" role="button" aria-haspopup="true" aria-expanded="false" aria-controls="collapsePro">Professionnels</a>
+                            </li>
+                            <li class="nav-item ">
+                                <a class="nav-link dropdown-toggle" href="#collapseDouane" aria-controls="collapseDouane" id="dropdownMenuLinkLaDouane" role="button" aria-haspopup="true" aria-expanded="false">La douane</a>
+
+                            </li>
+                            <li class="nav-item ">
+                                <a class="nav-link" href="/presse/espace-presse" id="dropdownMenuLinkPresse" role="button" aria-expanded="false">Presse</a>
+                            </li>
+                            <li></li>
+
+                            <li class="nav-item  d-none d-lg-block ">
+                                <a class="nav-link dropdown-toggle" href="#collapseServiceAide" aria-controls="collapseServiceAide" id="dropdownMenuLinkServicesEtAide" role="button" aria-haspopup="true" aria-expanded="false">Services & Aide</a>
+                            </li>
+
+
+                        </ul>
+                        <div class="contBtnRecherche  d-none d-lg-block">
+                            <button id="btnLoupe" class=" btn btnBgTrans btnTous "><i class="icon-baseline-search-24px"></i></button>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+
+
+
+<div id="collapsPrincipal">
+    <div id="collapseParticulier"  class="collapse collMenu" data-parent="#collapsPrincipal">
+		<div class="container">
+			<div class="row">
+				<div class="col-12">
+					<div class="ddMenu">
+						    
+    
+        <button class="fermerMenu">Fermer <i class="icon-baseline-close-24px"></i></button>
+<ul class="card-columns">
+<li class="card">
+        <a href="/particuliers/vous-voyagez">Vous voyagez</a>
+        </li>
+<li class="card">
+        <a href="/particuliers/vous-achetez-ou-vous-vendez">Vous achetez ou vous vendez</a>
+        </li>
+<li class="card">
+        <a href="/particuliers/vous-naviguez">Vous naviguez</a>
+        </li>
+<li class="card">
+        <a href="/particuliers/vous-demenagez">Vous déménagez</a>
+                    <ul>
+                                    <li>
+                        <a href="/particuliers/vous-demenagez/en-france-metropolitaine">En France métropolitaine</a>
+                    </li>
+                                    <li>
+                        <a href="/particuliers/vous-demenagez/en-outre-mer">En Outre-mer</a>
+                    </li>
+                                    <li>
+                        <a href="/particuliers/vous-demenagez/letranger">À l&#039;étranger</a>
+                    </li>
+                                <li class="d-block d-sm-none">
+                    <a href="/particuliers/vous-demenagez"><span class="icon-baseline-arrow_forward-24px"></span> Tous Vous déménagez</a>
+                    
+                </li>
+            </ul>
+        </li>
+<li class="card">
+        <a href="/particuliers/vous-etes-en-outre-mer">Vous êtes en Outre-mer</a>
+                    <ul>
+                                    <li>
+                        <a href="/particuliers/vous-etes-en-outre-mer/guadeloupe">Guadeloupe</a>
+                    </li>
+                                    <li>
+                        <a href="/particuliers/vous-etes-en-outre-mer/guyane">Guyane</a>
+                    </li>
+                                    <li>
+                        <a href="/particuliers/vous-etes-en-outre-mer/la-reunion">La Réunion</a>
+                    </li>
+                                    <li>
+                        <a href="/particuliers/vous-etes-en-outre-mer/martinique">Martinique</a>
+                    </li>
+                                    <li>
+                        <a href="/particuliers/vous-etes-en-outre-mer/mayotte">Mayotte</a>
+                    </li>
+                                    <li>
+                        <a href="/particuliers/vous-etes-en-outre-mer/territoires-et-collectivites-doutre-mer">Territoires et Collectivités d&#039;Outre-mer</a>
+                    </li>
+                                <li class="d-block d-sm-none">
+                    <a href="/particuliers/vous-etes-en-outre-mer"><span class="icon-baseline-arrow_forward-24px"></span> Tous Vous êtes en Outre-mer</a>
+                    
+                </li>
+            </ul>
+        </li>
+<li class="card">
+        <a href="/particuliers/trouble-free-travel-french-customs">Trouble-free travel with French customs</a>
+        </li>
+</ul>
+<a href="/particuliers" class="btn btnGost btnTous">Toute la thématique pour les particuliers</a>
+  
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="collapsePro"  class="collapse collMenu" data-parent="#collapsPrincipal">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="ddMenu">
+                            
+    
+        <button class="fermerMenu">Fermer <i class="icon-baseline-close-24px"></i></button>
+<ul class="card-columns">
+<li class="card">
+        <a href="/professionnels/commerce-international">Commerce international</a>
+                    <ul>
+                                    <li>
+                        <a href="/professionnels/commerce-international/echanges-au-sein-de-lunion-europeenne">Échanges au sein de l&#039;Union européenne</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/commerce-international/import-export">Import &amp; Export</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/commerce-international/logistique-transit-de-marchandises">Logistique &amp; Transit de marchandises</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/commerce-international/traites-commerciaux-internationaux">Traités commerciaux internationaux</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/commerce-international/produits-soumis-reglementation-particuliere-embargos">Produits soumis à règlementation particulière &amp; Embargos</a>
+                    </li>
+                                <li class="d-block d-sm-none">
+                    <a href="/professionnels/commerce-international"><span class="icon-baseline-arrow_forward-24px"></span> Tous Commerce international</a>
+                    
+                </li>
+            </ul>
+        </li>
+<li class="card">
+        <a href="/professionnels/energie-environnement">Énergie &amp; Environnement</a>
+                    <ul>
+                                    <li>
+                        <a href="/professionnels/energie-environnement/fiscalite-des-produits-energetiques-dechets-dhydrocarbures">Fiscalité des produits énergétiques - Déchets d&#039;hydrocarbures</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/energie-environnement/fiscalite-de-lelectricite-du-gaz-et-du-charbon">Fiscalité de l&#039;électricité, du gaz et du charbon</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/energie-environnement/fiscalite-de-lenvironnement">Fiscalité de l&#039;environnement</a>
+                    </li>
+                                <li class="d-block d-sm-none">
+                    <a href="/professionnels/energie-environnement"><span class="icon-baseline-arrow_forward-24px"></span> Tous Énergie &amp; Environnement</a>
+                    
+                </li>
+            </ul>
+        </li>
+<li class="card">
+        <a href="/professionnels/transport">Transport</a>
+                    <ul>
+                                    <li>
+                        <a href="/professionnels/transport/remboursement-partiel-des-taxes-sur-le-carburant">Remboursement partiel des taxes sur le carburant</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/transport/vehicules-de-12-tonnes-et-plus">Véhicules de 12 tonnes et plus</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/transport/transport-maritime">Transport maritime</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/transport/transports-internationaux">Transports internationaux</a>
+                    </li>
+                                <li class="d-block d-sm-none">
+                    <a href="/professionnels/transport"><span class="icon-baseline-arrow_forward-24px"></span> Tous Transport</a>
+                    
+                </li>
+            </ul>
+        </li>
+<li class="card">
+        <a href="/professionnels/contrefacons">Contrefaçons</a>
+        </li>
+<li class="card">
+        <a href="/professionnels/viticulture">Viticulture</a>
+        </li>
+<li class="card">
+        <a href="/professionnels/alcools-boissons-alcooliques">Alcools &amp; Boissons alcooliques</a>
+        </li>
+<li class="card">
+        <a href="/professionnels/tabac">Tabac</a>
+        </li>
+<li class="card">
+        <a href="/professionnels/detaxe">Détaxe</a>
+        </li>
+<li class="card">
+        <a href="/professionnels/outre-mer">Outre-mer</a>
+                    <ul>
+                                    <li>
+                        <a href="/professionnels/outre-mer/guadeloupe">Guadeloupe</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/outre-mer/guyane">Guyane</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/outre-mer/la-reunion">La Réunion</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/outre-mer/martinique">Martinique</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/outre-mer/mayotte">Mayotte</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/outre-mer/territoires-et-collectivites-doutre-mer">Territoires et Collectivités d&#039;Outre-mer</a>
+                    </li>
+                                <li class="d-block d-sm-none">
+                    <a href="/professionnels/outre-mer"><span class="icon-baseline-arrow_forward-24px"></span> Tous Outre-mer</a>
+                    
+                </li>
+            </ul>
+        </li>
+<li class="card">
+        <a href="/professionnels/paiements-garanties">Paiements &amp; Garanties</a>
+                    <ul>
+                                    <li>
+                        <a href="/professionnels/paiements-garanties/payer-en-ligne">Payer en ligne</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/paiements-garanties/garanties-des-operations-de-dedouanement">Garanties des opérations de dédouanement</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/paiements-garanties/garanties-des-operations-huiles-minerales">Garanties des opérations «huiles minérales»</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/paiements-garanties/cautions-et-dispenses-contributions-indirectes">Cautions et dispenses «contributions indirectes»</a>
+                    </li>
+                                <li class="d-block d-sm-none">
+                    <a href="/professionnels/paiements-garanties"><span class="icon-baseline-arrow_forward-24px"></span> Tous Paiements &amp; Garanties</a>
+                    
+                </li>
+            </ul>
+        </li>
+<li class="card">
+        <a href="/professionnels/autres-demarches">Autres démarches</a>
+                    <ul>
+                                    <li>
+                        <a href="/professionnels/autres-demarches/metaux-precieux">Métaux précieux</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/autres-demarches/vos-relations-de-confiance-avec-la-douane">Vos relations de confiance avec la douane</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/autres-demarches/information-sur-le-made-france">Information sur le Made in France</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/autres-demarches/exonerations-des-droits-et-taxes">Exonérations des droits et taxes</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/autres-demarches/taxes-diverses">Taxes diverses</a>
+                    </li>
+                                <li class="d-block d-sm-none">
+                    <a href="/professionnels/autres-demarches"><span class="icon-baseline-arrow_forward-24px"></span> Tous Autres démarches</a>
+                    
+                </li>
+            </ul>
+        </li>
+<li class="card">
+        <a href="/professionnels/french-customs-business">French Customs for business</a>
+                    <ul>
+                                    <li>
+                        <a href="/professionnels/french-customs-business/french-customs-presentation">French Customs presentation</a>
+                    </li>
+                                    <li>
+                        <a href="/professionnels/french-customs-business/french-customs-business">French Customs for business</a>
+                    </li>
+                                <li class="d-block d-sm-none">
+                    <a href="/professionnels/french-customs-business"><span class="icon-baseline-arrow_forward-24px"></span> Tous French Customs for business</a>
+                    
+                </li>
+            </ul>
+        </li>
+</ul>
+<a href="/professionnels" class="btn btnGost btnTous">Toute la thématique professionnelle</a>
+  
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+    <div id="collapseDouane" class="collapse collMenu" data-parent="#collapsPrincipal">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="ddMenu" aria-labelledby="dropdownMenuLinkLaDouane">
+                        <button class="fermerMenu">Fermer <i class="icon-baseline-close-24px"></i></button>
+                        <div class="row justify-content-between contentMenuDouaneMobile">
+                                <div class="col-md-6">
+              
+    
+                  <ul class="card-columns">
+                        <li class="card">
+              <a href="/la-douane/qui-sommes-nous" data-drupal-link-system-path="node/2095">Qui sommes-nous ?</a>
+                      
+                  <ul>
+                        <li>
+              <a href="/la-douane/qui-sommes-nous/lessentiel-de-la-douane" data-drupal-link-system-path="node/4139">Nos missions</a>
+              </li>
+                    <li>
+              <a href="/la-douane/qui-sommes-nous/organisation-de-la-direction-generale-des-douanes-et-droits-indirects" data-drupal-link-system-path="node/2044">La direction générale</a>
+              </li>
+                    <li>
+              <a href="/dossier/services-competences-particulieres" data-drupal-link-system-path="node/1936">Services à compétences particulières</a>
+              </li>
+                    <li>
+              <a href="/la-douane/qui-sommes-nous/histoire-de-la-douane-francaise" data-drupal-link-system-path="node/1942">Notre histoire</a>
+              </li>
+                    <li>
+              <a href="/la-douane/qui-sommes-nous/equipe-de-france-douane" data-drupal-link-system-path="node/8">L&#039;Équipe de France Douane</a>
+              </li>
+        </ul>
+  
+              </li>
+                    <li class="card">
+              <a href="/la-douane/ou-agissons-nous" data-drupal-link-system-path="node/2105">Où agissons-nous ?</a>
+                      
+                  <ul>
+                        <li>
+              <a href="/dossier/notre-presence-sur-le-territoire" data-drupal-link-system-path="node/1937">Notre présence sur le territoire</a>
+              </li>
+                    <li>
+              <a href="/dossier/notre-action-linternational" data-drupal-link-system-path="node/1940">Notre action à l&#039;international</a>
+              </li>
+        </ul>
+  
+              </li>
+                    <li class="card">
+              <a href="/la-douane/comment-innovons-nous" data-drupal-link-system-path="node/2108">Comment innovons-nous ?</a>
+                      
+                  <ul>
+                        <li>
+              <a href="/la-douane/comment-innovons-nous/le-role-de-la-douane-dans-limportation-des-masques-et-equipements" data-drupal-link-system-path="node/4383">La douane dans le contexte de la crise de la Covid-19</a>
+              </li>
+                    <li>
+              <a href="/dossier/franchissons-le-brexit-ensemble" data-drupal-link-system-path="node/650">Réussir le Brexit</a>
+              </li>
+                    <li>
+              <a href="/dossier/un-etat-au-service-dune-societe-de-confiance" data-drupal-link-system-path="node/182">Confiance et simplicité</a>
+              </li>
+                    <li>
+              <a href="/dossier/transformation-et-innovation" data-drupal-link-system-path="node/3519">Transformation et innovation</a>
+              </li>
+        </ul>
+  
+              </li>
+                    <li class="card">
+              <a href="/dossier/rejoindre-la-douane" data-drupal-link-system-path="node/887">Rejoignez-nous !</a>
+                      
+                  <ul>
+                        <li>
+              <a href="/la-douane/rejoignez-nous/vous-souhaitez-vous-inscrire-un-concours-ou-candidater-un-recrutement-sans" data-drupal-link-system-path="node/964">Inscription à un concours ou recrutement sans concours</a>
+              </li>
+                    <li>
+              <a href="/la-douane/rejoignez-nous/vous-souhaitez-consulter-les-resultats-dun-concours-ou-dun-recrutement" data-drupal-link-system-path="node/958">Résultats des concours</a>
+              </li>
+                    <li>
+              <a href="/la-douane/rejoignez-nous/vous-etes-admissible-un-concours-ou-pre-selectionne-un-recrutement-sans" data-drupal-link-system-path="node/965">Admissibilité ou pré-sélection</a>
+              </li>
+                    <li>
+              <a href="/la-douane/rejoignez-nous/vous-etes-admis-un-concours-ou-selectionne-un-recrutement-sans-concours" data-drupal-link-system-path="node/968">Admission ou sélection</a>
+              </li>
+                    <li>
+              <a href="/la-douane/rejoignez-nous/le-calendrier-previsionnel-des-concours-de-la-douane-francaise" data-drupal-link-system-path="node/762">Calendrier des recrutements</a>
+              </li>
+        </ul>
+  
+              </li>
+                    <li class="card">
+              <a href="/la-douane/nos-supports-dinformation" data-drupal-link-system-path="node/3873">Nos supports d&#039;information</a>
+                      
+                  <ul>
+                        <li>
+              <a href="/actualites" data-drupal-link-system-path="actualites">Actualités</a>
+              </li>
+                    <li>
+              <a href="/la-douane/opendata/categories/avis-aux-importateurs/2019-avis-aux-importateurs" data-drupal-link-system-path="taxonomy/term/478">Avis aux importateurs / exportateurs</a>
+              </li>
+                    <li>
+              <a href="/la-douane/informations/bulletins-officiels-des-douanes" data-drupal-link-system-path="la-douane/informations/bulletins-officiels-des-douanes">Bulletins officiels des douanes</a>
+              </li>
+                    <li>
+              <a href="/documentations" data-drupal-link-system-path="documentations">Documentations et brochures</a>
+              </li>
+                    <li>
+              <a href="/dossier" data-drupal-link-system-path="dossier">Dossiers thématiques</a>
+              </li>
+                    <li>
+              <a href="https://www.douanemagazine.fr/">Douane magazine</a>
+              </li>
+                    <li>
+              <a href="/english-content" data-drupal-link-system-path="node/3812">English content</a>
+              </li>
+                    <li>
+              <a href="/la-douane/nos-supports-dinformation/formulaires-pour-les-demarches-aupres-de-la-douane" data-drupal-link-system-path="node/856">Formulaires douaniers</a>
+              </li>
+                    <li>
+              <a href="/la-douane/opendata" data-drupal-link-system-path="la-douane/opendata">Open data</a>
+              </li>
+        </ul>
+  
+              </li>
+                    <li class="card">
+              <a href="/la-douane/nos-evenements" data-drupal-link-system-path="node/3431">Nos évènements</a>
+              </li>
+        </ul>
+  
+
+
+  
+    </div>
+    <div class="col-md-2 menu2 offset-md-1">
+        
+      <p class="engagmentsQualité" >Engagements et qualité</p>
+    
+        
+        <ul>
+            <li>
+            <a href="https://www.modernisation.gouv.fr/outils-et-methodes-pour-transformer/le-referentiel-marianne-socle-dengagement-interministeriel-en-matiere-de-qualite-daccueil">Référentiel Marianne</a>
+                    </li>
+            <li>
+            <a href="/engagements-et-qualite/le-programme-transparence-resultats-de-qualite-de-service" title="Le programme transparence - résultats de qualité de service" data-drupal-link-system-path="node/4077">Programme transparence</a>
+                    </li>
+            <li>
+            <a href="/engagements-et-qualite/contacter-la-douane-par-voie-electronique" data-drupal-link-system-path="node/1945">Saisine par voie électronique</a>
+                    </li>
+        </ul>
+  
+
+
+  
+    </div>
+
+                            <div class="col-md-3 menuImage">
+                                                                                                            <a href="/" title="Douane.gouv.fr - Accueil">
+                                                                                <img src=/sites/default/files/uploads/images/DOUANE-HERO/DOUANE-HERO-245X145-LOGO-DGDDI.jpg class="img-fluid" alt="Douane.gouv.fr - Accueil" width="245" height="145">
+                                        </a>
+                                                                                                            <a href="https://oups.gouv.fr/" title="Oups.gouv.fr ( nouvel onglet )" target="_blank">
+                                                                                <img src=/sites/default/files/uploads/images/2019-06/vignette-oups.jpg class="img-fluid" alt="Oups.gouv.fr" width="245" height="145">
+                                        </a>
+                                                                                                            <a href="https://brexit.gouv.fr" title="Brexit.gouv.fr ( nouvel onglet )" target="_blank">
+                                                                                <img src=/sites/default/files/uploads/files/Brexit/Logo-Brexit.gouv_.fr_.jpg class="img-fluid" alt="Brexit.gouv.fr" width="245" height="145">
+                                        </a>
+                                                                                                            <a href="http://www.musee-douanes.fr/" title="Musée National des douanes ( nouvel onglet )" target="_blank">
+                                                                                <img src=/sites/default/files/uploads/images/DOUANE-HERO/DOUANE-HERO-245X145-MND.jpg class="img-fluid" alt="Musée National des douanes" width="245" height="145">
+                                        </a>
+                                                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="collapsePresse" class="collapse collMenu" data-parent="#collapsPrincipal">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="ddMenu" >
+                    <button class="fermerMenu">Fermer <i class="icon-baseline-close-24px"></i></button>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="collapseServiceAide" class="collapse collMenu" data-parent="#collapsPrincipal">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="ddMenu" >
+                        <div class="sousMenuAide" aria-labelledby="dropdownMenuLinkServicesEtAide">
+                            <button class="fermerMenu">Fermer <i class="icon-baseline-close-24px"></i></button>
+                                <div class="row">
+                                    <div class="col-sm-4">
+                                        <a href="/actualites/douanegouvfr-le-portail-pour-toutes-vos-demarches-aupres-de-la-douane#Nouveau" class="btnAssistance text-center">
+                                            <img src="/themes/custom/portail_externe/assets/images/tuto2.png" alt="Tutoriel vidéo : Le nouveau douane.gouv.fr">
+                                        </a>
+                                        <a href="/actualites/douanegouvfr-le-portail-pour-toutes-vos-demarches-aupres-de-la-douane#Inscription" class="btnAssistance text-center">
+                                            <img src="/themes/custom/portail_externe/assets/images/tuto1.png" alt="Tutoriel vidéo : Créer votre compte sur douane.gouv.fr">
+                                        </a>
+                                    </div>
+                                    <div class="col-sm-4 liensMenu">
+                                        <span class="titreMenuAide">Services</span>
+                                                <nav role="navigation" aria-labelledby="block-services-menu" id="block-services">
+            
+  <h2 class="visually-hidden" id="block-services-menu">Services</h2>
+  
+
+        
+              <ul region="menu_services">
+              <li>
+        <a href="/services-aide/presentation-du-portail" data-drupal-link-system-path="node/2068">Présentation du portail</a>
+              </li>
+          <li>
+        <a href="/service-en-ligne" data-drupal-link-system-path="service-en-ligne">Tous les services en ligne &amp; documentations</a>
+              </li>
+          <li>
+        <a href="/meteo/prodouane/pages/meteo" target="_blank">État opérationnel des services en ligne (météo)</a>
+              </li>
+          <li>
+        <a href="/service-en-ligne/annuaire-des-services-douaniers" data-drupal-link-system-path="node/16">Annuaire des bureaux douaniers</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+                                    </div>
+                                    <div class="col-sm-4 liensMenu">
+                                        <span class="titreMenuAide">Aide</span>
+                                                <nav role="navigation" aria-labelledby="block-aides-menu" id="block-aides">
+            
+  <h2 class="visually-hidden" id="block-aides-menu">Aides</h2>
+  
+
+        
+              <ul region="menu_aide">
+              <li>
+        <a href="/le-role-administrateur-douane-admin-prodouane-pour-les-professionnels" data-drupal-link-system-path="node/3941">Le rôle Administrateur Douane</a>
+              </li>
+          <li>
+        <a href="/FAQ" data-drupal-link-system-path="FAQ">Foire aux questions</a>
+              </li>
+          <li>
+        <a href="/service-en-ligne/traitement-et-suivi-de-lassistance-en-reseau-olga">Demande d&#039;assistance</a>
+              </li>
+          <li>
+        <a href="/services-aide/infos-douane-service" data-drupal-link-system-path="node/2067">Infos Douane Service</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+                                    </div>
+                                </div>
+                                <a class=" btn btnGost btnTous " href="/services-aide">Tout sur les services & aide</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<div id="collapesMobile">
+    <div class="collapse " id="collapseAide" data-parent="#collapesMobile">
+        <div class="card card-body">
+            <span class="titreMenuResp">Services & Aide</span>
+            <span>Services</span>
+                <nav role="navigation" aria-labelledby="block-services-menu" id="block-services">
+            
+  <h2 class="visually-hidden" id="block-services-menu">Services</h2>
+  
+
+        
+              <ul region="menu_services">
+              <li>
+        <a href="/services-aide/presentation-du-portail" data-drupal-link-system-path="node/2068">Présentation du portail</a>
+              </li>
+          <li>
+        <a href="/service-en-ligne" data-drupal-link-system-path="service-en-ligne">Tous les services en ligne &amp; documentations</a>
+              </li>
+          <li>
+        <a href="/meteo/prodouane/pages/meteo" target="_blank">État opérationnel des services en ligne (météo)</a>
+              </li>
+          <li>
+        <a href="/service-en-ligne/annuaire-des-services-douaniers" data-drupal-link-system-path="node/16">Annuaire des bureaux douaniers</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+
+            <span>Aide</span>
+                <nav role="navigation" aria-labelledby="block-aides-menu" id="block-aides">
+            
+  <h2 class="visually-hidden" id="block-aides-menu">Aides</h2>
+  
+
+        
+              <ul region="menu_aide">
+              <li>
+        <a href="/le-role-administrateur-douane-admin-prodouane-pour-les-professionnels" data-drupal-link-system-path="node/3941">Le rôle Administrateur Douane</a>
+              </li>
+          <li>
+        <a href="/FAQ" data-drupal-link-system-path="FAQ">Foire aux questions</a>
+              </li>
+          <li>
+        <a href="/service-en-ligne/traitement-et-suivi-de-lassistance-en-reseau-olga">Demande d&#039;assistance</a>
+              </li>
+          <li>
+        <a href="/services-aide/infos-douane-service" data-drupal-link-system-path="node/2067">Infos Douane Service</a>
+              </li>
+        </ul>
+  
+
+
+  </nav>
+
+
+            <a class=" btn btnGost btnTous " href="/services-aide">Tout sur les services & aide</a>
+
+            <div class="btnAssistance">
+                <a href="/actualites/douanegouvfr-le-portail-pour-toutes-vos-demarches-aupres-de-la-douane#Nouveau" class=" text-center">
+                    <img src="/themes/custom/portail_externe/assets/images/tuto2.png" alt="Tutoriel vidéo : Le nouveau douane.gouv.fr">
+                </a>
+                <a href="/actualites/douanegouvfr-le-portail-pour-toutes-vos-demarches-aupres-de-la-douane#Inscription" class=" text-center">
+                    <img src="/themes/custom/portail_externe/assets/images/tuto1.png" alt="Tutoriel vidéo : Créer votre compte sur douane.gouv.fr">
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <div class="collapse " id="collapseRecherche" data-parent="#collapesMobile">
+        <div class="card card-body">
+            <span class="titreMenuResp">Recherche</span>
+            <div class="contRechercheMobile ">
+                <form action="/recherche" method="get" id="views-exposed-form-rechercher-resultatsrecherche" accept-charset="UTF-8" class="row">
+                    <input data-drupal-selector="edit-query" type="text" id="edit-query" name="query" value="" maxlength="128" class="form-text recherche-champ form-control" placeholder="ex. : Services en ligne, démarches, viticulture...">
+                    <button data-drupal-selector="edit-submit-rechercher" type="submit" id="edit-submit-rechercher" value="Rechercher" class="button js-form-submit form-submit recherche-bouton btn btnBgBleu btn-primary">Rechercher</button>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="collapse " id="collapseCompte" data-parent="#collapesMobile">
+        <div class="card card-body">
+
+            <div id="blocLoginInternet" aria-haspopup="true" aria-expanded="false">
+                <div class="media text-left">
+                    <img class="mr-3" src="/themes/custom/portail_externe/assets/images/icon-avatar.svg" alt="">
+                    <div class="media-body">
+                        <span class="mt-0">Mon Espace Personnel</span><br>
+                    </div>
+                </div>
+            </div>
+
+            <div class="sousMenu" aria-labelledby="blocLoginInternet">
+                <ul>
+                    <li><a href="/saml_login">Se connecter</a></li>
+                    <li><a href="/mon-compte/creer">S&#039;inscrire</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<main role="main">
+  <a id="main-content" tabindex="-1"></a>
+  <div id="search" role="search" aria-hidden="true">
+        
+    
+        
+<section id="recherche" class="recherche">
+    <div class="container">
+        <div class="contenaire-recherche search__inner">
+            <form class="search-form" action="/recherche" method="get" id="views-exposed-form-rechercher-resultatsrecherche" accept-charset="UTF-8" class="row">
+                <div class="row">
+                    <div class="col-12">
+                        <p class="search-wrap">
+                            <input data-drupal-selector="edit-query" type="text" id="edit-query" name="query" value="" maxlength="128" class="search-field recherche-champ " placeholder='ex. : Services en ligne, démarches, viticulture...'>
+                            <input data-drupal-selector="edit-submit-rechercher" id="edit-submit-rechercher" type="submit" name="search-submit" value="Rechercher" class="search-button">
+                        </p>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</section>
+  
+
+</div> 
+      
+    
+        
+	<div class="container">
+		<div class="row">
+			<section class="col-12 ariane" aria-label="fil d'ariane" region="ariane">
+				<ul>
+											<li class="li-ariane">
+															<a href="/">Accueil</a>
+													</li>
+											<li class="li-ariane">
+																																																								    Erreur 404
+																					</li>
+									</ul>
+			</section>
+		</div>
+	</div>
+
+  
+
+  <div>
+        <div data-drupal-messages-fallback class="hidden"></div>
+
+    
+        
+  <section class="mainUp" aria-label="mainUp" region="mainUp">
+    <div class="container">
+      <div class="row align-items-end">
+          <div class="col-9">
+              <h1>Erreur 404</h1>
+          </div>
+      </div>
+    </div>
+  </section>
+
+
+  <section class="pages-erreur">
+    <div class="container page-404">
+        <div>
+            <p><strong>Oups !</strong></p>
+
+<p>La page n’existe pas ou n’est pas disponible.</p>
+
+<p>Nous vous invitons à retourner sur la page d'accueil ou effectuer une recherche dans l'annuaire de l'administration.</p>
+
+        </div>
+    </div>
+</section>
+
+  </div>
+</main>
+
+<footer role="contentinfo">
+    <div>
+    <div class="container">
+        <div class="back-to-top">
+            <span class="top-text">Haut de page</span>
+            <button class="top-fleche" onclick="topFunction()" id="btt-button" title="Remonter en haut de la page"><i class="icon-baseline-expand_less-24px"></i></button>
+        </div>
+        <div class="row justify-content-between align-items-center">
+            <div class="col-6">
+                <ul class="list-inline">
+                    <li class="list-inline-item"><a href="https://www.economie.gouv.fr/"><img class="img-fluid" src="/themes/custom/portail_externe/assets/images/logo-ministere.svg" alt="ministère des finances" /></a> </li>
+                    <li class="list-inline-item"> <a href="/"><img src="/themes/custom/portail_externe/assets/images/logo-douane.svg" alt="douanes et droits indirects" /></a></li>
+                    <li class="list-inline-item">Direction générale des douanes et droits indirects</li>
+                </ul>
+            </div>
+            <div class="col-6 text-right">
+                <ul class="list-inline gouvernemment">
+                    <li class="list-inline-item"><a href="https://www.legifrance.gouv.fr/" target="_blank" title="legifrance.gouv.fr (nouvel onglet)">legifrance.gouv.fr</a></li>
+                    <li class="list-inline-item"><a href="https://www.service-public.fr/" target="_blank" title="service-public.fr (nouvel onglet)">service-public.fr</a></li>
+                    <li class="list-inline-item"><a href="https://www.gouvernement.fr/" target="_blank" title="gouvernement.fr (nouvel onglet)">gouvernement.fr</a></li>
+                    <li class="list-inline-item"><a href="https://www.france.fr/" target="_blank" title="france.fr (nouvel onglet)">france.fr</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="contFooterUnBas">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="row">
+                    <div class="col-sm-6 d-none d-sm-block">
+                        <ul>
+                            <li><a href="/particuliers">Particuliers</a></li>
+                            <li><a href="/professionnels">Professionnels</a></li>
+                            <li><a href="/presse/espace-presse">Presse</a></li>
+                            <li><a href="/la-douane">La douane</a></li>
+                            <li><a href="/services-aide">Services & aide</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="col-sm-6">
+                        <ul>
+                            <li><a href="/presse/espace-presse"><i class="icon-outline-library_books-24px"></i> Espace Presse</a></li>
+                            <li><a href="/dossier/rejoindre-la-douane"><i class="icon-outline-group_add-24px"></i> Espace recrutement</a></li>
+                            <li><a href="/equipe-de-france-douane"><i class="icon-outline-directions_run-24px"></i> Équipe de France Douane</a></li>
+                            <li><a href="/english-content" lang="en" hreflang="en"><i class="icon-icon-espacepresse"></i> English content</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="col-sm-5">
+                <div class="contInfoDouane">
+                    <i class="icon-outline-phone_callback-24px"></i>
+                    <p>Infos Douane Service</p>
+                    <p class="numTel">
+                        <a class="lienTel" href="tel: +33811204444">0 811 20 44 44</a><span> Service 0,06 € / min + prix appel</span>
+                    </p>
+                    <div class="row no-gutters justify-content-between">
+                        <div class="col-sm-6 col-9">
+                            <div class="telHorsMetro">
+                                <p class=""><i class="icon-icon-monde"></i> Hors métropole ou étranger</p>
+                                <p>+33 1 72 40 78 50</p>
+                            </div>
+                        </div>
+                        <div class="col-sm-5 col-9">
+                            <p class="contactMail">
+                                <i class="icon-outline-mail-24px"></i>
+                                <span>Via courriel</span><br>
+                                <a href="/formulaire-infos-douane-service" title="Contactez Infos Douane Service par courriel">Cliquez ici</a>
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12 ">
+                <div class="bordure"></div>
+            </div>
+            <div class="col-sm-7">
+                <p class="text-left">Besoin d’informations fiables et pratiques qui vous concernent ?<br>
+                    Abonnez-vous à la lettre d'information Douane magazine.</p>
+                <a href="/newsletter" class="cta btn radius btnBgBleu  btnTxtBlanc mb-2">S'abonner à la lettre d'information</a>
+            </div>
+            <div class="col-sm-5 listeReseauSociaux">
+                            <ul  class="list-unstyled list-inline reseaux-sociaux-footer" region="footer_right">
+        <li class="list-inline-item">Suivez-nous !</li>
+                    <li class="list-inline-item">
+                            <a href="https://twitter.com/douane_france?lang=fr" class="" target="_blank" title="twitter (nouvel onglet)"><i class="icon-twitter"><span class="visually-hidden">Lien vers Twitter</span></i></a>
+                        </li>
+                    <li class="list-inline-item">
+                            <a href="https://fr.linkedin.com/company/dgddi" class="" target="_blank" title="linkedin (nouvel onglet)"><i class="icon-linkedin"><span class="visually-hidden">Lien vers LinkedIn</span></i></a>
+                        </li>
+                    <li class="list-inline-item">
+                            <a href="https://www.youtube.com/user/DGDDI" class="" target="_blank" title="youtube (nouvel onglet)"><i class="icon-youtube"><span class="visually-hidden">Lien vers Youtube</span></i></a>
+                        </li>
+                    <li class="list-inline-item">
+                            <a href="https://www.flickr.com/photos/douanefrance/" class="" target="_blank" title="flickr (nouvel onglet)"><i class="icon-social-flickr-circular-button"><span class="visually-hidden">Lien vers Flickr</span></i></a>
+                        </li>
+                    <li class="list-inline-item">
+                            <a href="https://www.instagram.com/douane_france/?hl=fr" class="" target="_blank" title="instagram (nouvel onglet)"><i class="icon-instagram"><span class="visually-hidden">Lien vers Instagram</span></i></a>
+                        </li>
+            </ul>
+
+
+
+            </div>
+        </div>
+    </div>
+</div>
+<div class="footer3">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-sm-8 col-10 ">
+                <span>© Direction générale des douanes et droits indirects</span>
+                    <nav role="navigation" aria-labelledby="block-portail-externe-footer-menu" id="block-portail-externe-footer">
+            
+  <h2 class="visually-hidden" id="block-portail-externe-footer-menu">Footer menu</h2>
+  
+
+        
+              <ul class="list-unstyled list-inline" region="footer_menu">
+              <li class="list-inline-item">
+        <a href="/mentions-legales">Mentions légales</a>
+              </li>
+          <li class="list-inline-item">
+        <a href="/donnees-personnelles" data-drupal-link-system-path="node/2">Données personnelles</a>
+              </li>
+          <li class="list-inline-item">
+        <a href="/gestion-des-cookies" data-drupal-link-system-path="node/3">Gestion des cookies</a>
+              </li>
+          <li class="list-inline-item">
+        <a href="/plan-du-site" data-drupal-link-system-path="plan-du-site">Plan du site</a>
+              </li>
+        </ul>
+  
+
+  </nav>
+
+
+            </div>
+            <div class="col-sm-4 col-10 qualitePartenaire">
+                <ul class="list-unstyled list-inline">
+                    <li class="list-inline-item">
+                        <div class="dropdown show">
+                            <a href="" class="btn btn-secondary" role="button" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Partenariats 
+                                <i class="icon-outline-arrow_drop_down_circle-24px"></i>
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="dropdownMenuLink">
+                                <a class="dropdown-item" href="https://www.economie.gouv.fr/" target="_blank" title="economie.gouv.fr (nouvel onglet)">economie.gouv.fr</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="http://lekiosque.finances.gouv.fr/" target="_blank" title="lekiosque.finances.gouv.fr (nouvel onglet)">lekiosque.finances.gouv.fr</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="http://www.musee-douanes.fr/" target="_blank" title="musee-douanes.fr (nouvel onglet)">musee-douanes.fr</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="https://oups.gouv.fr/" target="_blank" title="oups.gouv.Fr (nouvel onglet)">oups.gouv.fr</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="https://data.economie.gouv.fr/" target="_blank" title="data.economie.gouv.fr (nouvel onglet)">data.economie.gouv.fr</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="https://www.economie.gouv.fr/tracfin/accueil-tracfin" target="_blank" title="economie.gouv.fr (nouvel onglet)">economie.gouv.fr (Tracfin)</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="https://www.modernisation.gouv.fr/" target="_blank" title="modernisation.gouv.fr (nouvel onglet)">modernisation.gouv.fr</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="https://www.drogues.gouv.fr/" target="_blank" title="drogues.gouv.fr (nouvel onglet)">drogues.gouv.fr (MILDECA)</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="https://www.businessfrance.fr/" target="_blank" title="Business France (nouvel onglet)">Business France</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+    </div>
+</div>
+</footer>
+
+
+      </div>
+
+    
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"fr"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"anchor_link\/drupal.anchor_link,core\/html5shiv,dgddi_web_call_back\/valid-form,eu_cookie_compliance\/eu_cookie_compliance,fontawesome\/fontawesome.svg,portail_externe\/global-css,portail_externe\/global-js,system\/base","theme":"portail_externe","theme_token":null},"ajaxTrustedUrl":[],"eu_cookie_compliance":{"popup_enabled":true,"popup_agreed_enabled":true,"popup_hide_agreed":true,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Cp\u003EEn poursuivant votre navigation sans modifier vos param\u00e8tres de t\u00e9moins de connexion, vous acceptez l\u0027utilisation des cookies.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EPlus d\u0026#039;informations\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EJ\u0026#039;accepte\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003EJe refuse\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003EPlus d\u0026#039;informations\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003EJ\u0026#039;accepte\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003EJe refuse\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":"\u003Cdiv class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-thank-you\u0022\u003E\n  \u003Cdiv class=\u0022popup-content agreed eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Cp\u003EMerci d\u0027avoir accept\u00e9\u00a0les cookies.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022hide-popup-button eu-cookie-compliance-hide-button\u0022\u003EFermer\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button-thank-you\u0022 \u003EPlus d\u0026#039;informations\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":20,"popup_link":"\/gestion-des-cookies","popup_link_new_window":false,"popup_position":false,"fixed_top_position":true,"popup_language":"fr","store_consent":false,"better_support_for_screen_readers":true,"cookie_name":"dgddi_rgpd_cookie_check","reload_page":true,"domain":"","domain_all_sites":false,"popup_eu_only_js":false,"cookie_lifetime":365,"cookie_session":0,"disagree_do_not_show_popup":false,"method":"opt_in","whitelisted_cookies":"ASPSESSIONID*\r\nROUTEPE","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003EWITHDRAW label\u003C\/button\u003E\n\u003Cdiv class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022\u003E\n      \u003Cp\u003EWITHDRAW CONSENT message\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button\u0022\u003EWITHDRAW CONSENT bouton label\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"withdraw_button_on_info_popup":false,"cookie_categories":[],"enable_save_preferences_button":false,"fix_first_cookie_category":false,"select_all_categories_by_default":false},"portail_externe":{"page_title":"Erreur 404","page_url":"https:\/\/www.douane.gouv.fr\/Portals\/0\/fichiers\/information\/publication-douane\/bilans-resultats\/resultats-2014.pdf"},"user":{"uid":0,"permissionsHash":"7962e495fe52d04ccf596bc60cab01608cf633722469e97a3244f52166fd0d53"}}</script>
+<script src="/sites/default/files/js/js_D-uOMJ2CfnOgWga8txxDdD48Z4AHBsRKG1stgIywtVU.js"></script>
+
+  </body>
+</html>

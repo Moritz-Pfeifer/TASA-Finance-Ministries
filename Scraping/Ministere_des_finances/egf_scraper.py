@@ -65,25 +65,6 @@ def parse_page_with_urls(soup):
 
         title = link.select_one('span.views-field.views-field-title').text
 
-        if 'bruno le maire' in title.lower():
-            author = 'Bruno Le Maire'
-        elif 'eckert' in title.lower():
-            author = 'Christian Eckert'
-        elif 'pinville' in title.lower():
-            author = 'Martine Pinville'
-        elif 'sapin' in title.lower():
-            author = 'Michel Sapin'
-        elif 'macron' in title.lower():
-            author = 'Emmanuel Macron'
-        elif 'delga' in title.lower():
-            author = 'Carole Delga'
-        elif 'moscovici' in title.lower():
-            author = 'Pierre Moscovici'
-        elif 'delga' in title.lower():
-            author = 'Carole Delga'
-        else:
-            author = None
-
         try:
             url = link.find('a').get('href')
         except AttributeError:
@@ -105,7 +86,69 @@ def parse_page_with_urls(soup):
                 os.makedirs('Communiques')
             folder = 'Communiques'
             section = 'Communiques'
-        write_csv([date, title, url, author])
+        if section == 'Communiques' or section == 'Dossiers':
+            author = None
+        else:
+            if 'bruno le maire' in title.lower():
+                author = 'Bruno Le Maire'
+            elif 'florence parly' in title.lower():
+                author = 'Florence Parly'
+            elif 'alain lambert' in title.lower():
+                author = 'Alain Lambert'
+            elif 'axelle lemaire' in title.lower():
+                author = 'Axelle Lemaire'
+            elif 'dominique bussereau' in title.lower():
+                author = 'Dominique Bussereau'
+            elif 'jean-françois copé' in title.lower():
+                author = 'Jean-François Copé'
+            elif 'éric woerth' in title.lower():
+                author = 'Éric Woerth'
+            elif 'françois baroin' in title.lower():
+                author = 'François Baroin'
+            elif 'valérie pécresse' in title.lower():
+                author = 'Valérie Pécresse'
+            elif 'jérôme cahuzac' in title.lower():
+                author = 'Jérôme Cahuzac'
+            elif 'bernard cazeneuve' in title.lower():
+                author = 'Bernard Cazeneuve'
+            elif 'gérald darmanin' in title.lower():
+                author = 'Gérald Darmanin'
+            elif 'olivier dussopt' in title.lower():
+                author = 'Olivier Dussopt'
+            elif 'dominique strauss-kahn' in title.lower():
+                author = 'Dominique Strauss-Kahn'
+            elif 'christian sautter' in title.lower():
+                author = 'Christian Sautter'
+            elif 'laurent fabius' in title.lower():
+                author = 'Laurent Fabius'
+            elif 'francis mer' in title.lower():
+                author = 'Francis Mer'
+            elif 'sarkozy' in title.lower():
+                author = 'Nicolas Sarkozy'
+            elif 'baroin' in title.lower():
+                author = 'François Baroin'
+            elif 'lagarde' in title.lower():
+                author = 'Christine Lagarde'
+            elif 'borloo' in title.lower():
+                author = 'Jean-Louis Borloo'
+            elif 'breton' in title.lower():
+                author = 'Thierry Breton'
+            elif 'gaymard' in title.lower():
+                author = 'Hervé Gaymard'
+            elif 'eckert' in title.lower():
+                author = 'Christian Eckert'
+            elif 'pinville' in title.lower():
+                author = 'Martine Pinville'
+            elif 'sapin' in title.lower():
+                author = 'Michel Sapin'
+            elif 'macron' in title.lower():
+                author = 'Emmanuel Macron'
+            elif 'delga' in title.lower():
+                author = 'Carole Delga'
+            elif 'moscovici' in title.lower():
+                author = 'Pierre Moscovici'
+            else:
+                author = None
         new_request = requests.get(url)
         filename = re.sub(r'[\\/*?:"<>|]', "_", title)
         if len(filename) > 251:

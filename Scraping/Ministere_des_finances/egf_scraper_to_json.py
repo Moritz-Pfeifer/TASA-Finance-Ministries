@@ -42,7 +42,7 @@ def parse_records(records, conn, cursor):
         pdf_text = parse_pdf(pdf_filename,section)
         data_to_json = {'id': id, 'url': url, 'author': author, 'title': title, 'text': pdf_text,
                             'published_date': published_date, 'section': section}
-        json_filename = f'egf_{published_date}_{id}.json'
+        json_filename = f'{section}_{published_date}_{id}.json'
         with open(f'Json/{json_filename}', 'w', encoding='utf8') as json_file:
             json.dump(data_to_json, json_file, ensure_ascii=False)
 
